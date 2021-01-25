@@ -203,3 +203,9 @@ footer a:hover {
 .icon-youtube {
   background-image: url(../img/youtube.png);
 }
+
+@media (max-width: 960px) {
+  .articles-container article {
+    width: 100%
+  }
+}
